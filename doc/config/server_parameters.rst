@@ -42,6 +42,8 @@ error message.
 
 `cutoff_time` [ integer ]
 -----------------------
+Maximum time in minutes to finish the task. Connection will
+be closed after the time.
 
 `logfile` [ string ]
 ------------------
